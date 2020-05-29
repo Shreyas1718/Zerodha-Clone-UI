@@ -1,16 +1,14 @@
-# zerodhaui
+# Zerodha Clone UI
 
-A new Flutter application.
+<h3>Flutter UI of Zerodha new Design.</h3>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/first.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/second.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/third.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/fourth.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/fifth.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/sixth.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/seventh.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/eight.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/nine.jpeg" align="left"  width="25%" ></a>
+<a href="url"><img src="https://github.com/Shreyas1718/Zerodha-Clone-UI/blob/master/images/ten.jpeg" align="left"  width="25%" ></a>
